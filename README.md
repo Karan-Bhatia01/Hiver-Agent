@@ -213,7 +213,7 @@ python evaluation/run_evaluation.py --skip-llm-judge   # Faster, skip LLM scorin
 | 11 | 🐛 iOS 11 Bug & Performance Reports | 7,402 | 6.9% | General feedback, bugs, and performance complaints on iOS 11 |
 
 Two of these (0 and 8) turned out to be near-duplicates of each other — see [Failure Analysis](#failure-analysis).
-C:\Users\bhati\Desktop\Hiver\processed\intents\cluster_visualization.png
+![C:\Users\bhati\Desktop\Hiver\processed\intents\cluster_visualization.png](processed/intents/cluster_visualization.png)
 ---
 
 ## Evaluation & Results

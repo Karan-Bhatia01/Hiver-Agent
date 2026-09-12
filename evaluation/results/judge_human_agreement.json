@@ -1,0 +1,27 @@
+{
+  "empathy": {
+    "mean_abs_deviation": 0.667,
+    "within_1_agreement": 0.8
+  },
+  "accuracy": {
+    "mean_abs_deviation": 1.4,
+    "within_1_agreement": 0.667
+  },
+  "completeness": {
+    "mean_abs_deviation": 1.8,
+    "within_1_agreement": 0.267
+  },
+  "actionability": {
+    "mean_abs_deviation": 0.667,
+    "within_1_agreement": 0.867
+  },
+  "safety": {
+    "mean_abs_deviation": 0.0,
+    "within_1_agreement": 1.0
+  },
+  "overall": {
+    "spearman_correlation": 0.3071,
+    "n_paired": 15,
+    "mean_abs_deviation_avg_score": 0.48
+  }
+}

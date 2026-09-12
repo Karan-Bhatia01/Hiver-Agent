@@ -1,0 +1,2994 @@
+{
+  "0": {
+    "reply": "Hi there, we\u2019re sorry you\u2019re still seeing that \u201cI\u201d issue after the latest update\u2014it can be really annoying.  \n\nHere are a few things you can try while we work on a permanent fix in a future iOS release:\n\n1. **Confirm you\u2019re on the newest iOS**  \n   - Open **Settings** > **General** > **Software Update** and install any available update.\n\n2. **Restart your iPhone**  \n   - Press and hold the side (or top) button and either volume button until the power\u2011off slider appears, slide to power off, wait a few seconds, then turn it back on.\n\n3. **Reset keyboard settings**  \n   - Go to **Settings** > **General** > **Transfer or Reset iPhone** > **Reset** > **Reset Keyboard Dictionary**.  \n   - Then, in **Settings** > **General** > **Keyboard**, make sure **Auto\u2011Correction** is enabled (or toggle it off and on again).\n\n4. **Clear recent shortcuts** (if you use text replacements)  \n   - **Settings** > **General** > **Keyboard** > **Text Replacement** \u2013 delete any shortcuts that might be causing the \u201cI\u201d to change unexpectedly.\n\nIf the problem continues after these steps, please let us know by sending us a DM with your device model and the exact iOS version (found under **Settings** > **General** > **About**). We\u2019ll dive deeper and get this sorted for you.\n\nThank you for your patience,  \n\u2014 Apple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3177,
+    "top3_intents": [
+      5,
+      0,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.615,
+    "system": "rag_agent"
+  },
+  "1": {
+    "reply": "Hi there!\u202fWe understand how frustrating it can be when an iOS update doesn\u2019t go as expected, and we\u2019re here to help you get it resolved.\n\n**Try these steps to troubleshoot the update issue:**\n\n1. **Check your connection** \u2013 Make sure your iPhone or iPad is connected to a stable Wi\u2011Fi network and that the signal is strong.  \n2. **Verify battery level** \u2013 Keep the device plugged into power, or ensure the battery is at least\u202f50\u202f% before starting the update.  \n3. **Free up storage** \u2013 Go to **Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fiPhone Storage** and confirm you have enough free space (generally\u202f2\u202fGB\u202f+\u202fis recommended).  \n4. **Restart the device** \u2013 Press and hold the Power button (and either volume button on iPhone X or later) until the slider appears, then slide to power off. Wait a few seconds and turn it back on.  \n5. **Delete the partially\u2011downloaded update** (if applicable):  \n   - Open **Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fiPhone Storage**.  \n   - Scroll to **iOS\u202fxx.x Update**, tap it, then select **Delete Update**.  \n6. **Install the update again** \u2013 Go to **Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fSoftware Update** and tap **Download and Install**. Follow the on\u2011screen prompts.  \n7. **If the update still won\u2019t install**, try updating via a computer:  \n   - Connect your device to a Mac with **Finder** (macOS Catalina or later) or a PC/Mac with **iTunes** (macOS Mojave or earlier).  \n   - Select your device, then click **Check for Update** and follow the instructions.\n\nIf you\u2019ve tried these steps and the problem persists, please let us know what error message (if any) you\u2019re seeing, or feel free to DM us your current iOS version so we can look into it further.\n\nThank you for reaching out, and we hope the update completes smoothly!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3469,
+    "top3_intents": [
+      5,
+      6,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.885,
+    "system": "rag_agent"
+  },
+  "2": {
+    "reply": "Hi there!\u202fWe understand how frustrating the \u201cI\u201d autocorrect issue can be, and we\u2019re here to help.\n\n**Try these steps to see if the problem is resolved:**  \n\n1. **Check your iOS version** \u2013 Open **Settings** > **General** > **About** and note the version listed.  \n2. **Install the latest iOS update** \u2013 Go to **Settings** > **General** > **Software Update** and tap **Download and Install** if an update is available.  \n3. **Reset the keyboard dictionary** \u2013  \n   - Open **Settings** > **General** > **Transfer or Reset iPhone** > **Reset**.  \n   - Tap **Reset Keyboard Dictionary** and confirm.  \n4. **Turn off predictive text (optional)** \u2013  \n   - Open **Settings** > **General** > **Keyboard**.  \n   - Toggle **Predictive** off, then back on after a few seconds.  \n5. **Restart your iPhone** \u2013 Press and hold the side button with either volume button, then slide to power off. Turn it back on after a minute.\n\nIf the issue persists after these steps, please let us know which iOS version you\u2019re running so we can investigate further. You can DM us that information, and we\u2019ll take a closer look.\n\nThank you for reaching out, and we appreciate your patience.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3496,
+    "top3_intents": [
+      5,
+      0,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.7,
+    "system": "rag_agent"
+  },
+  "3": {
+    "reply": "Hi there, we understand how frustrating the \u201ci\u201d issue can be\u2014let\u2019s see if we can get it working smoothly again.\n\n**Here are a few quick steps you can try:**\n\n1. **Check your iOS version**  \n   - Open **Settings** \u25ba **General** \u25ba **About** and note the version number.  \n   - If you\u2019re not on the latest release, go to **Settings** \u25ba **General** \u25ba **Software Update** and install any available update.\n\n2. **Reset the keyboard dictionary**  \n   - Go to **Settings** \u25ba **General** \u25ba **Transfer or Reset iPhone** \u25ba **Reset** \u25ba **Reset Keyboard Dictionary**.  \n   - This clears any learned shortcuts that might be causing the \u201ci\u201d autocorrect problem.\n\n3. **Turn off \u201cPredictive\u201d and then back on**  \n   - Open **Settings** \u25ba **General** \u25ba **Keyboard**.  \n   - Toggle **Predictive** off, wait a few seconds, then toggle it back on.\n\n4. **Add a text replacement as a temporary workaround**  \n   - In **Settings** \u25ba **General** \u25ba **Keyboard** \u25ba **Text Replacement**, tap **+**.  \n   - In **Phrase**, type \u201ci\u201d (lower\u2011case) and in **Shortcut**, also type \u201ci\u201d. Save it. This can help the system treat the character correctly until a future update resolves the issue.\n\n5. **If the problem persists, try the official workaround**  \n   - Apple has posted a temporary fix you can follow here: https://t.co/xXaXeeSRt9  \n\nIf after these steps the issue is still present, please let us know your current iOS version and we\u2019ll investigate further.  \n\nThank you for your patience, and we\u2019re here to help!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3424,
+    "top3_intents": [
+      5,
+      8,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.318,
+    "system": "rag_agent"
+  },
+  "4": {
+    "reply": "Hi there, we\u2019re sorry the latest update isn\u2019t improving things for you. Let\u2019s try a few quick steps that often resolve post\u2011update issues:\n\n1. **Check for a newer update** \u2013\u202fgo to **Settings\u202f>\u202fGeneral\u202f>\u202fSoftware Update** and install any available version.  \n2. **Restart your iPhone** \u2013\u202fhold the Power button (or Power\u202f+\u202fVolume\u202fDown on newer models) until the \u201cslide to power off\u201d slider appears, turn it off, then turn it back on.  \n3. **Force\u2011restart** (doesn\u2019t erase data):  \n   - iPhone\u202f8 or later: press **Volume\u202fUp**, then **Volume\u202fDown**, then hold the **Side** button until the Apple logo appears.  \n   - iPhone\u202f7/7\u202fPlus: hold **Volume\u202fDown**\u202f+\u202f**Power** until the Apple logo appears.  \n   - iPhone\u202f6s or earlier: hold **Home**\u202f+\u202f**Power** until the Apple logo appears.  \n4. **Reset Network Settings** \u2013\u202f**Settings\u202f>\u202fGeneral\u202f>\u202fTransfer or Reset iPhone\u202f>\u202fReset\u202f>\u202fReset Network Settings** (you\u2019ll need to reconnect to Wi\u2011Fi afterward).  \n5. **If a specific app is misbehaving**, delete it, then reinstall from the App Store.  \n6. **Reinstall iOS** (last resort) \u2013 after backing up to iCloud or a computer, go to **Settings\u202f>\u202fGeneral\u202f>\u202fTransfer or Reset iPhone\u202f>\u202fErase All Content and Settings** and follow the prompts to set up as a new device or restore from backup.\n\nIf the problem persists after these steps, please let us know and we can look into it further\u2014feel free to DM us your iOS version and any specific symptoms you\u2019re seeing.\n\nThank you for reaching out, and we\u2019re here to help!  \n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3485,
+    "top3_intents": [
+      5,
+      0,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 8.139,
+    "system": "rag_agent"
+  },
+  "5": {
+    "reply": "Hi there\u2014thanks for reaching out about the \u201cI\u201d autocorrect glitch. We understand how frustrating that can be, and we\u2019re here to help.\n\n**Here\u2019s a quick way to resolve it:**\n\n1. **Back up your device**  \n   - Open **Settings** \u2192 **[your name]** \u2192 **iCloud** \u2192 **iCloud Backup** \u2192 **Back Up Now**  \n   - Or connect to a computer and back up with Finder (macOS Catalina or later) or iTunes (macOS Mojave or earlier/Windows).\n\n2. **Check for the latest iOS update**  \n   - Go to **Settings** \u2192 **General** \u2192 **Software Update**.  \n   - If an update (iOS\u202f11.1.2 or later) is available, tap **Download and Install**. This update includes a fix for autocorrect issues, including the \u201cI\u201d glitch.\n\n3. **After the update, test the keyboard**  \n   - Open any app and type \u201cI\u201d to confirm the autocorrect behaves correctly.\n\n4. **If the issue persists, reset the keyboard dictionary**  \n   - **Settings** \u2192 **General** \u2192 **Transfer or Reset iPhone** \u2192 **Reset** \u2192 **Reset Keyboard Dictionary**.  \n   - This clears any learned shortcuts that might be causing the problem.\n\nFor more details, you can review Apple\u2019s guide on updating iOS here: https://support.apple.com/en-us/HT204204\n\nIf you\u2019ve tried these steps and the glitch is still there, feel free to let us know and we can explore additional options.\n\nThanks for your patience, and we hope this gets your typing back on track!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.308,
+    "top3_intents": [
+      8,
+      5,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 15.097,
+    "system": "rag_agent"
+  },
+  "6": {
+    "reply": "Hi there\u2014sorry to hear the latest update isn\u2019t behaving the way it should. Let\u2019s try a few quick steps that often resolve post\u2011update issues:\n\n1. **Force\u2011restart your iPhone**  \n   - iPhone 8 or later: Press and quickly release Volume\u202f\u2191, then Volume\u202f\u2193, then hold the Side button until the Apple logo appears.  \n   - iPhone\u202f7/7\u202fPlus: Hold Volume\u202f\u2193\u202f+\u202fSide button together until the Apple logo appears.  \n   - iPhone\u202f6s or earlier: Hold Home\u202f+\u202fSide (or Top) button together until the Apple logo appears.\n\n2. **Check for a newer iOS version**  \n   - Open **Settings** \u2192 **General** \u2192 **Software Update**. If an update is available, tap **Download and Install**. Apple often releases follow\u2011up patches that fix early\u2011release bugs.\n\n3. **Update your apps**  \n   - Open the **App Store**, tap your profile picture at the top right, then tap **Update All**. Out\u2011of\u2011date apps can cause instability after a system upgrade.\n\n4. **Free up storage if it\u2019s low**  \n   - Go to **Settings** \u2192 **General** \u2192 **iPhone Storage**. If you\u2019re near capacity, delete unused apps, photos, or offload content to iCloud.\n\n5. **Reset network settings** (helps with connectivity\u2011related glitches)  \n   - **Settings** \u2192 **General** \u2192 **Transfer or Reset iPhone** \u2192 **Reset** \u2192 **Reset Network Settings**. You\u2019ll need to reconnect to Wi\u2011Fi afterward.\n\n6. **If problems persist, try a settings reset**  \n   - **Settings** \u2192 **General** \u2192 **Transfer or Reset iPhone** \u2192 **Reset** \u2192 **Reset All Settings**. This won\u2019t delete your data but will restore system preferences to default.\n\nIf you\u2019ve run through these steps and the issue is still there, feel free to DM us with your current iOS version and a brief description of what\u2019s happening, and we\u2019ll dive deeper.\n\nThanks for reaching out, and we\u2019re here to help get things back to normal!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3273,
+    "top3_intents": [
+      5,
+      6,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 12.917,
+    "system": "rag_agent"
+  },
+  "7": {
+    "reply": "Hi there!\u202fWe\u2019re sorry to hear the issue is still happening even after updating. Let\u2019s double\u2011check a few things so we can get it resolved:\n\n1. **Verify your iOS version**  \n   - Open **Settings** \u2192 **General** \u2192 **About**.  \n   - Note the number next to **Version** (e.g., 11.1.1 or later). If you\u2019re not on the latest release, go to **Settings** \u2192 **General** \u2192 **Software Update** and install any available update.\n\n2. **Reset the keyboard dictionary**  \n   - **Settings** \u2192 **General** \u2192 **Transfer or Reset iPhone** \u2192 **Reset** \u2192 **Reset Keyboard Dictionary**.  \n   - This clears any learned shortcuts that might be causing the problem.\n\n3. **Toggle autocorrect settings**  \n   - **Settings** \u2192 **General** \u2192 **Keyboard**.  \n   - Turn **Auto\u2011Correction** off, wait a few seconds, then turn it back on.\n\n4. **Force\u2011restart your iPhone** (doesn\u2019t erase data)  \n   - iPhone 8 or later: Press and quickly release **Volume Up**, then **Volume Down**, then hold the **Side button** until the Apple logo appears.  \n   - iPhone 7/7\u202fPlus: Hold **Volume Down** and the **Side button** together until the Apple logo appears.  \n   - iPhone 6s or earlier: Hold **Home** and the **Top/Side button** together until the Apple logo appears.\n\n5. **Check for a specific known issue**  \n   - Some earlier iOS releases had an autocorrect glitch with the letter \u201ci.\u201d Updating to iOS\u202f11.1.1 (or later) addressed this. If you\u2019re already on that version and the problem persists, the steps above usually help.\n\nIf you\u2019ve tried these steps and the problem is still present, please let us know your exact iOS version and we\u2019ll investigate further\u2014feel free to DM us your details so we can keep your information private.\n\nThank you for your patience, and we\u2019re here to help you get everything working smoothly!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3309,
+    "top3_intents": [
+      5,
+      0,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 14.052,
+    "system": "rag_agent"
+  },
+  "8": {
+    "reply": "Hi there!\u202fWe\u2019re sorry to hear the recent update hasn\u2019t resolved the \u201cI\u201d autocorrect problem you\u2019ve been dealing with. Let\u2019s try a few steps that often clear up lingering keyboard issues after an iOS update:\n\n1. **Confirm you\u2019re on the latest iOS**  \n   - Open **Settings** \u25ba **General** \u25ba **Software Update** and install any available update.\n\n2. **Force\u2011restart your iPhone**  \n   - iPhone\u202f8 or later: quickly press **Volume Up**, then **Volume Down**, then hold the **Side button** until the Apple logo appears.  \n   - iPhone\u202f7/7\u202fPlus: hold **Volume Down** and the **Side button** together until the Apple logo appears.  \n   - iPhone\u202f6s or earlier: hold **Home** and the **Top/Side button** together until the Apple logo appears.\n\n3. **Reset the Keyboard Dictionary**  \n   - Settings \u25ba **General** \u25ba **Transfer or Reset iPhone** \u25ba **Reset** \u25ba **Reset Keyboard Dictionary**.  \n   - This clears any learned shortcuts that might be causing the \u201cI\u201d issue.\n\n4. **Toggle Autocorrect / Predictive Text**  \n   - Settings \u25ba **General** \u25ba **Keyboard**. Turn **Auto\u2011Correction** and **Predictive** off, wait a few seconds, then turn them back on.\n\n5. **Reset All Settings** (keeps your data but restores system settings)  \n   - Settings \u25ba **General** \u25ba **Transfer or Reset iPhone** \u25ba **Reset** \u25ba **Reset All Settings**.\n\n6. **Reinstall iOS via a computer** (if the problem persists)  \n   - Connect your iPhone to a Mac or PC, open Finder (macOS Catalina or later) or iTunes, select your device, and choose **Restore iPhone**. This refreshes the system without erasing your data.\n\nIf you\u2019ve tried these steps and the issue is still present, could you let us know the exact iPhone model and the iOS version you\u2019re running? You can DM us that information, and we\u2019ll dive deeper to find a solution.\n\nThank you for your patience\u2014we\u2019re here to help!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3017,
+    "top3_intents": [
+      5,
+      6,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 15.466,
+    "system": "rag_agent"
+  },
+  "9": {
+    "reply": "Hi there\u2014sorry you\u2019re experiencing trouble after the latest update. Let\u2019s see if we can get things running smoothly again.\n\n**Try these steps:**\n\n1. **Check the iOS version** \u2013 Open **Settings** > **General** > **About** and note the version listed.  \n2. **Restart your iPhone** \u2013 Press and hold the side (or top) button, then slide to power off. Wait a few seconds and turn it back on.  \n3. **Force\u2011restart** (if the problem persists):  \n   - iPhone 8 or later: quickly press **Volume\u202fUp**, then **Volume\u202fDown**, then hold the side button until the Apple logo appears.  \n   - iPhone 7/7\u202fPlus: hold **Volume\u202fDown** and the side button together until the Apple logo appears.  \n   - iPhone 6s or earlier: hold the **Home** and side/top button together until the Apple logo appears.  \n4. **Look for a newer update** \u2013 Go to **Settings** > **General** > **Software Update**. If Apple has released a follow\u2011up update, install it.  \n5. **Reset all settings** (this won\u2019t delete your data): **Settings** > **General** > **Transfer or Reset iPhone** > **Reset** > **Reset All Settings**.  \n6. **Check app compatibility** \u2013 Open the App Store, tap your profile icon, and scroll to **Updates** to ensure all apps are up to date.\n\nIf the issue is still there after these steps, feel free to DM us with your current iOS version and a brief description of the problem, and we\u2019ll dive deeper.\n\nThanks for reaching out, and we hope your device is back to normal soon!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.326,
+    "top3_intents": [
+      5,
+      0,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 10.899,
+    "system": "rag_agent"
+  },
+  "10": {
+    "reply": "Hi there, we\u2019re glad you were able to get your Boot\u202fCamp partition back up and running. If you run into any other questions or need further assistance in the future, feel free to reach out.  \n\nBest regards,  \nApple Support",
+    "predicted_intent": 0,
+    "predicted_is_dm": false,
+    "confidence": 0.1344,
+    "top3_intents": [
+      0,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.056,
+    "system": "rag_agent"
+  },
+  "11": {
+    "reply": "Hi there, we\u2019re sorry you\u2019re seeing incorrect results in Calculator\u2014that can be frustrating.  \n\n**Quick things to try:**  \n1. **Force\u2011close the app** \u2013 swipe up from the bottom (or double\u2011click the Home button) and swipe the Calculator card off the screen.  \n2. **Reopen Calculator** and try the same calculation again.  \n3. **Restart your iPhone or iPad** (press and hold the power button, then slide to power off; turn it back on).  \n4. **Check for iOS updates** \u2013 go to **Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fSoftware Update** and install any available update.  \n5. If you\u2019re using a third\u2011party keyboard, try switching back to the default Apple keyboard and test the calculation again.  \n\nIf the issue continues after these steps, please send us a DM with your device model and iOS version so we can look into it further. You can also visit\u202f[Apple Support](https://support.apple.com)\u202for call\u202f1\u2011800\u2011MY\u2011APPLE for additional help.  \n\nThanks for reaching out \u2013 we\u2019re here to get this sorted for you!  \n\n\u2014 Apple Support",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.1706,
+    "top3_intents": [
+      8,
+      5,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.343,
+    "system": "rag_agent"
+  },
+  "12": {
+    "reply": "Hi there!\u202fWe understand how frustrating it is to lose access to a video you\u2019ve already downloaded and enjoyed.\n\n**Here are a few quick things you can try:**\n\n1. **Check your storage** \u2013\u202fMake sure there\u2019s enough free space on your device for the downloaded file.  \n2. **Verify the download** \u2013\u202fOpen the\u202fTV\u202fapp (or\u202fApple\u202fMusic/Apple\u202fTV) and go to\u202fLibrary\u202f\u2192\u202fDownloaded\u202fto see if the video is still listed. If it shows a cloud icon, tap it to re\u2011download.  \n3. **Refresh your Apple\u202fID** \u2013\u202fSign out of your Apple\u202fID in\u202fSettings\u202f\u2192\u202f[your name]\u202f\u2192\u202fSign Out, then sign back in.  \n4. **Update iOS** \u2013\u202fGo to\u202fSettings\u202f\u2192\u202fGeneral\u202f\u2192\u202fSoftware Update and install any available update.  \n5. **Restart your device** \u2013\u202fA quick restart can resolve temporary glitches.\n\nIf the video still won\u2019t play after these steps, we\u2019ll need a bit more information to look into your account and device specifics.\n\n**To protect your personal information, please DM us your device model and the iOS version you\u2019re running, and we\u2019ll investigate further.**  \n\nThank you for your patience, and we\u2019re here to help you get back to watching your content!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 4,
+    "predicted_is_dm": true,
+    "confidence": 0.2051,
+    "top3_intents": [
+      4,
+      11,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.353,
+    "system": "rag_agent"
+  },
+  "13": {
+    "reply": "Ol\u00e1! Sabemos como pode ser frustrante quando o seu Mac n\u00e3o sincroniza corretamente ao conect\u00e1\u2011lo ao computador. Vamos tentar resolver isso juntos.\n\n**Passos para corrigir a sincroniza\u00e7\u00e3o:**\n\n1. **Verifique o nome do Mac**  \n   - No seu Mac, abra **Prefer\u00eancias do Sistema** > **Compartilhamento**.  \n   - O campo **Nome do computador** deve exibir o nome que voc\u00ea deseja (por exemplo, \u201cMacBook\u2011Casa\u201d). Se estiver mostrando \u201cMacBook do Morumbi\u201d, altere para o nome correto e feche a janela.\n\n2. **Confirme que o Mac est\u00e1 sendo reconhecido pelo Finder (ou iTunes)**  \n   - Conecte o Mac ao computador via cabo USB.  \n   - No macOS Catalina ou posterior, abra o **Finder** e, na barra lateral, procure o seu dispositivo em **Locais**.  \n   - No macOS Mojave ou anterior, abra o **iTunes** e verifique se o dispositivo aparece na barra superior.\n\n3. **Confirme a confian\u00e7a no computador**  \n   - Quando conectar o cabo, pode aparecer um alerta no seu Mac pedindo para \u201cConfiar neste computador\u201d. Clique em **Confiar** e, se solicitado, insira a senha do seu usu\u00e1rio.\n\n4. **Atualize o software**  \n   - No Mac, v\u00e1 em **Prefer\u00eancias do Sistema** > **Atualiza\u00e7\u00e3o de Software** e instale quaisquer atualiza\u00e7\u00f5es dispon\u00edveis.  \n   - No computador (Windows ou outro Mac), tamb\u00e9m verifique se o macOS ou o iTunes/Finder est\u00e3o na vers\u00e3o mais recente.\n\n5. **Reinicie ambos os dispositivos**  \n   - Desconecte o cabo, reinicie o Mac e o computador, e depois reconecte o cabo.\n\n6. **Redefina as Prefer\u00eancias de Sincroniza\u00e7\u00e3o**  \n   - No Finder/iTunes, selecione o seu Mac, desmarque todas as op\u00e7\u00f5es de sincroniza\u00e7\u00e3o, clique em **Aplicar**, depois marque novamente as op\u00e7\u00f5es desejadas e clique em **Aplicar** outra vez.\n\nSe ap\u00f3s seguir esses passos o seu Mac ainda aparecer como \u201cMacBook do Morumbi\u201d ou a sincroniza\u00e7\u00e3o n\u00e3o funcionar, por favor, envie\u2011nos uma mensagem direta com a vers\u00e3o do macOS que est\u00e1 usando e o modelo exato do seu Mac. Assim poderemos analisar mais detalhadamente.\n\nAgradecemos a sua paci\u00eancia e estamos aqui para ajudar!  \n\n\u2014 Equipe Apple Support",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.2007,
+    "top3_intents": [
+      10,
+      9,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.581,
+    "system": "rag_agent"
+  },
+  "14": {
+    "reply": "Hi there!\u202fWe understand how frustrating that square\u2011with\u2011a\u2011question\u2011mark character can be, especially when you\u2019re restoring multiple devices.\n\n**Here are a few quick steps that usually resolve the \u201ci\u201d/\u201cquestion\u2011mark\u2011in\u2011square\u201d glitch:**\n\n1. **Update iOS**  \n   - Open **Settings** \u2192 **General** \u2192 **Software Update**.  \n   - If an update is available, tap **Download and Install**.\n\n2. **Reset Keyboard Dictionary**  \n   - Go to **Settings** \u2192 **General** \u2192 **Transfer or Reset iPhone** \u2192 **Reset** \u2192 **Reset Keyboard Dictionary**.  \n   - Confirm the reset.\n\n3. **Turn Off Predictive Text (temporarily)**  \n   - **Settings** \u2192 **General** \u2192 **Keyboard** \u2192 toggle **Predictive** off.  \n   - Restart the device, then turn Predictive back on if you prefer.\n\n4. **Restart Your Device**  \n   - Press and hold the power button (and volume button on iPhone X or later) until the slider appears, then slide to power off.  \n   - Wait a few seconds and turn it back on.\n\n5. **Check for Third\u2011Party Keyboard Interference**  \n   - If you use a third\u2011party keyboard, try disabling or uninstalling it to see if the issue persists.\n\nIf the character still appears after these steps, we\u2019ll need a bit more detail (device model and iOS version) to investigate further. Please DM us with that information, and we\u2019ll take a closer look.\n\nThank you for your patience, and we\u2019re here to help get everything back to normal!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.2445,
+    "top3_intents": [
+      8,
+      0,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 5.973,
+    "system": "rag_agent"
+  },
+  "15": {
+    "reply": "Hi there\u2014sorry to hear the iOS\u202f11 update is affecting your battery life. Let\u2019s try a few quick steps that often help restore stamina:\n\n1. **Check Battery Usage** \u2013 Open **Settings > Battery** and see which apps are using the most power.  \n2. **Disable Background App Refresh** \u2013 Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fBackground App Refresh \u2192\u202fOff (or select Wi\u2011Fi only).  \n3. **Limit Location Services** \u2013 Settings\u202f\u2192\u202fPrivacy\u202f\u2192\u202fLocation Services, set \u201cWhile Using the App\u201d for most apps.  \n4. **Reduce Screen Brightness & Auto\u2011Lock** \u2013 Settings\u202f\u2192\u202fDisplay & Brightness, lower brightness and set Auto\u2011Lock to 30\u202fseconds or 1\u202fminute.  \n5. **Enable Low Power Mode** \u2013 Settings\u202f\u2192\u202fBattery\u202f\u2192\u202fLow Power Mode (or tap the battery icon in Control Center).  \n6. **Update to the Latest iOS** \u2013 If a newer iOS version is available, go to Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fSoftware Update and install it.  \n7. **Reset All Settings** \u2013 Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fReset\u202f\u2192\u202fReset All Settings (this won\u2019t delete your data but will restore default preferences).\n\nIf the battery still drains quickly after trying these steps, we\u2019ll need a bit more detail to investigate further. Please DM us your current iOS version and the iPhone model, and we\u2019ll take a closer look.\n\nThank you for reaching out, and we\u2019re here to help get your battery back to normal.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5566,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 11.433,
+    "system": "rag_agent"
+  },
+  "16": {
+    "reply": "Hi there\u2014sorry to hear your iPhone\u202f6s battery isn\u2019t lasting after the iOS\u202f11 update.  \n\n**Quick steps you can try first:**  \n1. **Check for the latest iOS version** \u2013 go to **Settings > General > Software Update** and install any available update (iOS\u202f11.0.3 or later).  \n2. **Restart your iPhone** \u2013 press and hold the Power button, then slide to power off; turn it back on after a few seconds.  \n3. **Reset all settings** \u2013 Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fReset\u202f\u2192\u202fReset All Settings (this won\u2019t delete your data but will clear custom settings).  \n\nIf the battery still drains quickly, we\u2019ll need a bit more information to investigate further. Please DM us with your exact iOS version and how many hours the phone lasts on a full charge, and we\u2019ll take a closer look. You can also reach us directly at\u202f[Apple Support](https://support.apple.com) or call\u202f1\u2011800\u2011MY\u2011APPLE.\n\nThank you for reaching out, and we look forward to helping you get your battery back to normal.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5355,
+    "top3_intents": [
+      1,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 9.255,
+    "system": "rag_agent"
+  },
+  "17": {
+    "reply": "Hi there\u2014sorry to hear your battery isn\u2019t lasting as long as it should after iOS\u202f11.  \n\nHere are a few quick things you can try:  \n\n1. **Check Battery Usage** \u2013 Open **Settings\u202f>\u202fBattery** to see which apps are using the most power and consider disabling background activity for any that you don\u2019t need.  \n2. **Update to the Latest iOS** \u2013 If a newer iOS version is available, go to **Settings\u202f>\u202fGeneral\u202f>\u202fSoftware Update** and install it; Apple often includes battery\u2011life improvements in updates.  \n3. **Enable Optimized Battery Charging** \u2013 In **Settings\u202f>\u202fBattery\u202f>\u202fBattery Health**, turn on **Optimized Battery Charging** to reduce aging.  \n4. **Reset Settings** \u2013 If the drain continues, try **Settings\u202f>\u202fGeneral\u202f>\u202fReset\u202f>\u202fReset All Settings** (this won\u2019t delete your data but will restore system defaults).  \n\nIf the issue persists, we\u2019ll need a bit more detail to diagnose it properly. Please DM us with your device model and the iOS version you\u2019re running, and we\u2019ll take a closer look.  \n\nThank you for reaching out, and we look forward to helping you get your battery back to normal.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5333,
+    "top3_intents": [
+      1,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 9.131,
+    "system": "rag_agent"
+  },
+  "18": {
+    "reply": "Hi there\u2014sorry to hear your battery isn\u2019t lasting as long after the iOS\u202f11.1 update. Let\u2019s try a few quick checks that often help restore normal battery life:\n\n1. **Check Battery Usage**  \n   - Open **Settings** \u25ba **Battery**. Review which apps are using the most power and consider disabling or limiting them.\n\n2. **Turn Off Background App Refresh**  \n   - Settings \u25ba **General** \u25ba **Background App Refresh** \u2192 set to **Off** (or select Wi\u2011Fi only for essential apps).\n\n3. **Limit Location Services**  \n   - Settings \u25ba **Privacy** \u25ba **Location Services** \u2192 choose **While Using the App** or **Never** for apps that don\u2019t need constant location access.\n\n4. **Disable Push Email**  \n   - Settings \u25ba **Mail** \u25ba **Accounts** \u25ba **Fetch New Data** \u2192 switch to **Fetch** and set a longer interval, or turn off **Push**.\n\n5. **Update to the Latest iOS**  \n   - If a newer iOS version is available, go to Settings \u25ba **General** \u25ba **Software Update** and install it. Apple often releases battery\u2011optimisation updates.\n\n6. **Reset All Settings** (this won\u2019t erase your data)  \n   - Settings \u25ba **General** \u25ba **Reset** \u25ba **Reset All Settings**.\n\nIf the battery still drains quickly after trying these steps, we\u2019ll need a bit more detail to investigate further. Please DM us with your iPhone model and the exact iOS version you\u2019re running, and we\u2019ll take a closer look.\n\nThank you for reaching out, and we\u2019re here to help you get your iPhone back to full\u2011day performance.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5608,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 10.199,
+    "system": "rag_agent"
+  },
+  "19": {
+    "reply": "Hi there, we\u2019re sorry to hear the iOS\u202f11.1.1 update is causing rapid battery drain on your iPhone\u202f7.  \n\n**Quick steps you can try:**  \n1. **Check Battery Usage** \u2013 Settings\u202f\u25b6\u202fBattery to see if a specific app is using an unusually high amount.  \n2. **Update iOS** \u2013 If a newer iOS version is available (Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fSoftware Update), install it; later releases often include battery\u2011life improvements.  \n3. **Reset Settings** \u2013 Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fReset\u202f\u25b6\u202fReset All Settings (this won\u2019t delete your data).  \n4. **Disable Background App Refresh** \u2013 Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fBackground App Refresh, then turn it off for apps you don\u2019t need updating constantly.  \n\nIf the drain continues after these steps, we\u2019ll need a bit more detail to investigate further. Please DM us with your current iOS version and any steps you\u2019ve already tried so we can look into this together: https://t.co/GDrqU22YpT  \n\nThank you for reaching out, and we\u2019ll work to get your battery back to normal.  \n\n\u2014 Apple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5372,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 13.268,
+    "system": "rag_agent"
+  },
+  "20": {
+    "reply": "Hi @115858\u202f\u2014\u202fwe\u2019re sorry to hear your iPhone\u2019s battery is draining so quickly on iOS\u202f11.  \n\n**Quick steps you can try:**  \n1. **Check for the latest iOS\u202f11 update** \u2013 go to **Settings\u202f>\u202fGeneral\u202f>\u202fSoftware Update** and install any available update.  \n2. **View Battery Health** \u2013 open **Settings\u202f>\u202fBattery\u202f>\u202fBattery Health** to see the maximum capacity and if the battery needs service.  \n3. **Turn off Background App Refresh** for apps you don\u2019t use often: **Settings\u202f>\u202fGeneral\u202f>\u202fBackground App Refresh** \u2192 select *Off* or choose specific apps.  \n4. **Limit Location Services**: **Settings\u202f>\u202fPrivacy\u202f>\u202fLocation Services** \u2192 set unused apps to *Never* or *While Using the App*.  \n5. **Reset all settings** (won\u2019t delete data): **Settings\u202f>\u202fGeneral\u202f>\u202fReset\u202f>\u202fReset All Settings**.  \n\nIf the battery still runs down in about six hours after trying these steps, we\u2019ll need a bit more information to diagnose the issue. Please DM us with your current iOS version and device model, and we\u2019ll take a closer look. You can also visit\u202f[Apple Support](https://support.apple.com)\u202for call\u202f1\u2011800\u2011MY\u2011APPLE for further assistance.  \n\nThank you for reaching out,  \n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.531,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 14.659,
+    "system": "rag_agent"
+  },
+  "21": {
+    "reply": "Hi there, we know how frustrating it can be when battery life drops after an update.  \n\n**Quick steps you can try:**  \n1. Open **Settings\u202f\u2192\u202fBattery** and review the \u201cBattery Usage\u201d chart to see which apps are consuming the most power.  \n2. Make sure your iPhone is running the latest iOS version (**Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fSoftware Update**).  \n3. Turn off **Background App Refresh** for apps you don\u2019t need (**Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fBackground App Refresh**).  \n4. Disable unnecessary **Location Services** (**Settings\u202f\u2192\u202fPrivacy\u202f\u2192\u202fLocation Services**).  \n5. Restart your iPhone (press and hold the Power button, then slide to power off, and turn it back on).  \n\nIf the battery still drains quickly, we\u2019d like to look at the details with you. Please DM us your device model and the current iOS version so we can investigate further.  \n\nThank you for reaching out,  \n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5548,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 14.549,
+    "system": "rag_agent"
+  },
+  "22": {
+    "reply": "Hi there\u2014sorry to hear the iOS\u202f11 update has impacted your battery life.  \n\n**Quick steps you can try:**  \n1. Open **Settings\u202f\u2192\u202fBattery** and review the \u201cBattery Usage\u201d chart to identify any apps that may be draining power.  \n2. Make sure your iPhone is running the latest iOS version (Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fSoftware Update).  \n3. Perform a **restart**: press and hold the Power button, then slide to power off; turn it back on after a few seconds.  \n4. If the issue persists, go to **Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fReset\u202f\u2192\u202fReset All Settings** (this won\u2019t delete your data but will restore default settings).  \n\nIf you\u2019re still experiencing poor battery performance, we\u2019ll need a bit more information to investigate further. Please DM us with your device model and current iOS version, and we\u2019ll take it from there.  \n\nThank you for reaching out, and we\u2019re here to help.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5562,
+    "top3_intents": [
+      1,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 15.26,
+    "system": "rag_agent"
+  },
+  "23": {
+    "reply": "Hi\u202f@AppleSupport, we\u2019re sorry to hear your battery life is still poor after updating to iOS\u202f11.0.2.  \n\n**Quick steps you can try:**  \n1. Open **Settings\u202f>\u202fBattery** and review the \u201cBattery Usage\u201d chart to identify any apps that are draining power.  \n2. Turn off **Background App Refresh** for apps you don\u2019t need constantly updating (Settings\u202f>\u202fGeneral\u202f>\u202fBackground App Refresh).  \n3. Disable **Location Services** for apps that don\u2019t require it (Settings\u202f>\u202fPrivacy\u202f>\u202fLocation Services).  \n4. Make sure you\u2019re on the latest iOS version (Settings\u202f>\u202fGeneral\u202f>\u202fSoftware Update).  \n5. If you use a case, try removing it while charging to ensure proper heat dissipation.  \n\nIf the battery still isn\u2019t performing as expected, we\u2019ll need to look at your device details. Please DM us with your current iOS version so we can investigate further: https://t.co/GDrqU22YpT  \n\nThank you for your patience,  \n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5258,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 14.558,
+    "system": "rag_agent"
+  },
+  "24": {
+    "reply": "Hi there! We understand how frustrating it is when a new update seems to drain your iPhone\u202f6s battery faster than usual.  \n\n**Quick steps you can try:**  \n1. Open **Settings\u202f\u2192\u202fBattery** and review the \u201cBattery Usage\u201d chart to see if any app is consuming an unexpected amount of power.  \n2. Turn off **Background App Refresh** (Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fBackground App Refresh).  \n3. Disable **Location Services** for apps that don\u2019t need it (Settings\u202f\u2192\u202fPrivacy\u202f\u2192\u202fLocation Services).  \n4. Ensure **Low Power Mode** is enabled (Settings\u202f\u2192\u202fBattery\u202f\u2192\u202fLow Power Mode).  \n5. If the issue continues, a deeper diagnostic may be needed.\n\nTo protect your personal information and look into your device\u2019s specifics, please send us a Direct Message with your current iOS version and any additional details you\u2019ve noticed. You can start the DM here: https://t.co/GDrqU22YpT  \n\nThank you for reaching out, and we\u2019re here to help you get your battery back to normal.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.5836,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 10.067,
+    "system": "rag_agent"
+  },
+  "25": {
+    "reply": "Hi @115858, we\u2019re sorry to hear your battery isn\u2019t lasting as it should\u2014let\u2019s see if we can improve it.\n\n**Quick steps you can try:**\n\n1. **Check Battery Health** \u2013 Open **Settings > Battery > Battery Health** and see the maximum capacity percentage. If it\u2019s below 80\u202f%, the battery may need service.  \n2. **Update iOS** \u2013 Go to **Settings > General > Software Update** and install any available update; newer releases often include battery\u2011optimisation fixes.  \n3. **Force\u2011restart your iPhone** \u2013  \n   - iPhone\u202f6s/6: Press and hold **Home + Power** until the Apple logo appears.  \n4. **Reset all settings** \u2013 **Settings > General > Reset > Reset All Settings** (this won\u2019t delete your data but will restore default system settings).  \n\nIf the battery still drains quickly after these steps, we\u2019ll need a bit more information to diagnose the issue.\n\n**Next steps:** Please DM us with your iPhone model and the iOS version you\u2019re running, and we\u2019ll take a closer look. You can also review Apple\u2019s battery\u2011service guide here: https://support.apple.com/battery-health\n\nThank you for reaching out, and we\u2019re here to help you get your device back to normal.  \n\n\u2014 Apple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.3941,
+    "top3_intents": [
+      1,
+      7,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 10.077,
+    "system": "rag_agent"
+  },
+  "26": {
+    "reply": "Hi there\u2014sorry to hear your battery isn\u2019t lasting like it used to after the update. Let\u2019s see if we can get it back to normal.\n\n**Quick steps to try:**\n\n1. **Check Battery Health**  \n   - Open **Settings** \u2192 **Battery** \u2192 **Battery Health**. If the maximum capacity is below 80\u202f%, the battery may need service.\n\n2. **Make sure you\u2019re on the latest iOS version**  \n   - Go to **Settings** \u2192 **General** \u2192 **Software Update** and install any available update (Apple often releases battery\u2011optimisation fixes after a major release).\n\n3. **Reset all settings** (this won\u2019t delete your data)  \n   - **Settings** \u2192 **General** \u2192 **Transfer or Reset iPhone** \u2192 **Reset** \u2192 **Reset All Settings**.\n\n4. **Review Battery Usage**  \n   - In **Settings** \u2192 **Battery**, scroll down to see which apps are using power. If anything looks unusually high, try disabling background refresh for that app: **Settings** \u2192 **General** \u2192 **Background App Refresh**.\n\n5. **Turn off \u201cBackground App Refresh\u201d and \u201cLocation Services\u201d for apps you don\u2019t need**  \n   - **Settings** \u2192 **Privacy** \u2192 **Location Services** \u2192 select the app \u2192 **Never** (or **While Using**).\n\nIf the battery still drains quickly after trying these steps, we\u2019ll need a bit more detail to investigate further. Please DM us your iPhone model and the iOS version you\u2019re running, and we\u2019ll take a closer look.\n\nThank you for reaching out, and we\u2019re here to help you get the most out of your device.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.45,
+    "top3_intents": [
+      1,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 14.281,
+    "system": "rag_agent"
+  },
+  "27": {
+    "reply": "Hi there! We understand how frustrating a rapidly draining battery can be, and we\u2019re here to help.\n\n**Quick steps to improve battery life:**\n\n1. **Check Battery Usage** \u2013 Open **Settings > Battery** and review which apps are using the most power. Consider disabling or limiting those you don\u2019t need frequently.  \n2. **Update iOS** \u2013 Make sure your device is running the latest iOS version: **Settings > General > Software Update**.  \n3. **Turn off Background App Refresh** \u2013 Go to **Settings > General > Background App Refresh** and toggle it off for apps that don\u2019t need to update in the background.  \n4. **Manage Location Services** \u2013 Open **Settings > Privacy & Security > Location Services** and set apps to \u201cWhile Using the App\u201d or \u201cNever\u201d where appropriate.  \n5. **Enable Low Power Mode** \u2013 Swipe down to open **Control Center** and tap the battery icon, or go to **Settings > Battery > Low Power Mode**.  \n6. **Check for Battery\u2011draining settings** \u2013 Disable unnecessary widgets, reduce screen brightness, and turn off \u201cRaise to Wake\u201d if you don\u2019t use it (**Settings > Display & Brightness**).  \n\nIf you\u2019ve tried these steps and the battery is still draining quickly, we\u2019ll need a bit more information to diagnose the issue. Please DM us with your device model and the iOS version you\u2019re currently running, and we\u2019ll take a closer look.\n\nThank you for reaching out, and we look forward to getting your battery back to normal!  \n\n\u2014 Apple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4178,
+    "top3_intents": [
+      1,
+      6,
+      7
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 14.537,
+    "system": "rag_agent"
+  },
+  "28": {
+    "reply": "Hi @115858, we\u2019re sorry to hear about the rapid battery drain you\u2019re seeing.  \n\n**Here are a few quick steps you can try:**  \n\n1. **Check Battery Health** \u2013 Open **Settings > Battery > Battery Health** and note the \u201cMaximum Capacity.\u201d If it\u2019s below 80\u202f%, the battery may need service.  \n2. **Update iOS** \u2013 Go to **Settings > General > Software Update** and install any available update, as newer releases often include battery\u2011optimisation fixes.  \n3. **Limit background activity** \u2013 Disable **Background App Refresh** (Settings > General > Background App Refresh) and turn off location services for apps that don\u2019t need it (Settings > Privacy > Location Services).  \n4. **Reduce power\u2011hungry features** \u2013 Turn off \u201cRaise to Wake,\u201d \u201cHey\u202fSiri,\u201d and unnecessary visual effects (Settings > Accessibility > Motion).  \n5. **Force\u2011restart your iPhone** \u2013 Quickly press and release Volume\u202fUp, then Volume\u202fDown, then hold the Side button until the Apple logo appears.  \n6. **Reset all settings** (if the drain continues) \u2013 **Settings > General > Reset > Reset All Settings**. This won\u2019t delete your data but will restore system settings to default.  \n\nIf the issue persists, could you DM us with the exact iPhone model and iOS version you\u2019re running? That will help us dive deeper and determine whether a battery service is needed.  \n\nThank you for reaching out \u2013 we\u2019re here to help!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.354,
+    "top3_intents": [
+      1,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 10.521,
+    "system": "rag_agent"
+  },
+  "29": {
+    "reply": "Hi there\u2014We understand how frustrating reduced battery life can be, especially after an update.\n\n**Here are a few things you can try to improve battery performance on iOS\u202f11:**\n\n1. **Check Battery Health**  \n   - Open **Settings** > **Battery** > **Battery Health**. If the maximum capacity is significantly lower than 100\u202f% or you see a \u201cService Battery\u201d warning, the battery may need to be replaced.\n\n2. **Enable Low Power Mode**  \n   - Go to **Settings** > **Battery** and toggle **Low Power Mode** on. This reduces background activity and visual effects.\n\n3. **Update to the latest iOS version**  \n   - Open **Settings** > **General** > **Software Update** and install any available updates, as Apple often releases battery\u2011optimizing fixes.\n\n4. **Review Background Activity**  \n   - In **Settings** > **General** > **Background App Refresh**, turn off the feature for apps you don\u2019t need updating in the background.  \n   - Also, check **Settings** > **Privacy** > **Location Services** and set apps to \u201cWhile Using the App\u201d or \u201cNever\u201d where appropriate.\n\n5. **Reset Settings** (if the issue persists)  \n   - Go to **Settings** > **General** > **Reset** > **Reset All Settings**. This won\u2019t delete your data but will restore system settings to default, which can clear any misconfigurations affecting battery life.\n\nFor more detailed guidance, please see Apple\u2019s battery\u2011life support page: https://support.apple.com/en-us/HT208387\n\nIf you\u2019d like us to look into this further, could you let us know which iPhone model you\u2019re using? That will help us provide the most accurate advice.\n\nThank you for reaching out, and we\u2019re here to help you get the most out of your device.",
+    "predicted_intent": 1,
+    "predicted_is_dm": false,
+    "confidence": 0.4659,
+    "top3_intents": [
+      1,
+      10,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 15.47,
+    "system": "rag_agent"
+  },
+  "30": {
+    "reply": "Hi there, we know how annoying it can be when the letter \u201cI\u201d turns into a box or question\u2011mark while you\u2019re typing.  \n\n**Here\u2019s a quick way to work around the issue until a future software update resolves it:**\n\n1. **Make sure your iPhone or iPad is running the latest iOS version** \u2013 go to **Settings\u202f>\u202fGeneral\u202f>\u202fSoftware Update** and install any available update.  \n2. **Reset the keyboard dictionary** \u2013 open **Settings\u202f>\u202fGeneral\u202f>\u202fTransfer or Reset iPhone\u202f>\u202fReset\u202f>\u202fReset Keyboard Dictionary** and follow the prompts.  \n3. **Apply the temporary workaround** \u2013 tap the link below for a proven fix that you can enable right now:  \n   https://t.co/xXaXeeSRt9  \n\nIf the problem continues after trying these steps, feel free to let us know and we\u2019ll be happy to look into it further.  \n\nThanks for reaching out, and we appreciate your patience!  \n\n\u2014 Apple Support",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2313,
+    "top3_intents": [
+      8,
+      11,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 10.804,
+    "system": "rag_agent"
+  },
+  "31": {
+    "reply": "Hi there! We understand how frustrating it can be when something isn\u2019t working as expected.  \n\nHere are a few quick steps you can try right away:\n\n1. **Restart your device** \u2013 press and hold the Power button (and either volume button on iPhone X or later) until the \u201cslide to power off\u201d slider appears, then slide to turn off. Wait a few seconds and power it back on.  \n2. **Check for a software update** \u2013 go to **Settings > General > Software Update** and install any available iOS update. Recent updates often include fixes for known bugs.  \n3. **Clear the app\u2019s cache (if it\u2019s an app issue)** \u2013 delete the app, then reinstall it from the App Store.  \n4. **Reset network settings** (if the problem involves connectivity) \u2013 go to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings**.  \n\nIf the issue continues after trying these steps, please let us know by sending us a direct message with your device model and iOS version so we can look into it further.\n\nThank you for reaching out, and we\u2019re here to help!  \n\n\u2014 Apple Support",
+    "predicted_intent": 2,
+    "predicted_is_dm": false,
+    "confidence": 0.2158,
+    "top3_intents": [
+      2,
+      8,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 9.923,
+    "system": "rag_agent"
+  },
+  "32": {
+    "reply": "Hi there!\u202fWe understand how frustrating it can be when the \u201ci\u201d autocorrect glitch shows up while you\u2019re typing. Let\u2019s get that sorted.\n\n**Try these steps:**\n\n1. **Back up your device** \u2013 use iCloud (Settings\u202f\u25b6\u202f[your name]\u202f\u25b6\u202fiCloud\u202f\u25b6\u202fiCloud Backup\u202f\u25b6\u202fBack Up Now) or a computer with Finder/iTunes.  \n2. **Update to the latest iOS** \u2013 go to Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fSoftware Update and install any available update. Recent iOS releases contain a fix for the \u201ci\u201d autocorrect issue.  \n3. **Check your keyboard settings** \u2013 Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fKeyboard, then make sure **Auto\u2011Correction** is turned on.  \n4. **Reset the keyboard dictionary** \u2013 Settings\u202f\u25b6\u202fGeneral\u202f\u25b6\u202fTransfer or Reset\u202f\u25b6\u202fReset\u202f\u25b6\u202fReset Keyboard Dictionary.  \n5. **Restart your iPhone or iPad** \u2013 press and hold the side (or top) button with either volume button, then slide to power off; turn it back on after a few seconds.\n\nIf the problem continues after these steps, please let us know by sending us a DM with your device model and iOS version so we can look into it further.\n\nThank you for reaching out, and we\u2019re here to help!  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2335,
+    "top3_intents": [
+      8,
+      2,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 13.402,
+    "system": "rag_agent"
+  },
+  "33": {
+    "reply": "Hi there!\u202fWe understand you\u2019d like to know the cost for fixing the issue you\u2019re seeing. To keep your information secure and give you the most accurate assistance, could you please DM us with a brief description of the problem (including the device model and iOS version)? We\u2019ll review the details and get back to you right away.\n\nIf you prefer, you can also reach us directly at\u202fsupport.apple.com\u202for call\u202f1\u2011800\u2011MY\u2011APPLE.\n\nThank you for reaching out, and we look forward to helping you resolve this!\u202f\u2014\u202fApple Support",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2766,
+    "top3_intents": [
+      8,
+      2,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 13.891,
+    "system": "rag_agent"
+  },
+  "34": {
+    "reply": "Hi there! We understand the \u201ci\u201d character issue can be frustrating, and we\u2019re here to help.\n\n**Try these steps to resolve the problem:**\n\n1. **Update iOS**  \n   - Open **Settings** \u25ba **General** \u25ba **Software Update**.  \n   - If an update is available, tap **Download and Install**.\n\n2. **Reset Keyboard Dictionary**  \n   - Go to **Settings** \u25ba **General** \u25ba **Transfer or Reset iPhone** \u25ba **Reset** \u25ba **Reset Keyboard Dictionary**.  \n   - Confirm the reset; this clears any custom shortcuts that might be causing the glitch.\n\n3. **Check Keyboard Settings**  \n   - Open **Settings** \u25ba **General** \u25ba **Keyboard**.  \n   - Ensure **Auto\u2011Correction** is turned **on** and **Predictive** is enabled.  \n   - If you have any third\u2011party keyboards installed, try disabling them temporarily.\n\n4. **Force\u2011Restart Your iPhone**  \n   - For iPhone\u202f8 or later: quickly press **Volume Up**, then **Volume Down**, then hold the **Side button** until the Apple logo appears.  \n   - For iPhone\u202f7/7\u202fPlus: hold **Volume Down** and the **Side button** together until the Apple logo appears.  \n   - For iPhone\u202f6s or earlier: hold **Home** and the **Top/Side button** together until the Apple logo appears.\n\n5. **Test the \u201ci\u201d key** in a new note or message. If the issue persists, you can also try removing and re\u2011adding the **English (US) keyboard** under **Settings\u202f\u2192\u202fGeneral\u202f\u2192\u202fKeyboard\u202f\u2192\u202fKeyboards**.\n\nIf these steps don\u2019t fix the glitch, please let us know and we can look into it further\u2014feel free to DM us your iOS version and device model so we can provide more targeted assistance.\n\nThank you for reaching out, and we hope this gets your keyboard back to normal!  \n\n\u2014 Apple Support",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2538,
+    "top3_intents": [
+      8,
+      11,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 12.408,
+    "system": "rag_agent"
+  },
+  "35": {
+    "reply": "Hi there!\u202fWe know it\u2019s frustrating when a bug shows up while you\u2019re typing, and we\u2019re here to help.\n\n**Try these steps to work around the issue:**  \n\n1. **Update to the latest iOS** \u2013 Open **Settings > General > Software Update** and install any available update.  \n2. **Force\u2011restart your device** \u2013  \n   * iPhone\u202f8 or later: quickly press **Volume Up**, then **Volume Down**, then hold the **Side button** until the Apple logo appears.  \n   * iPhone\u202f7/7\u202fPlus: hold **Volume Down** and the **Side button** together until the Apple logo appears.  \n   * iPhone\u202f6s or earlier: hold **Home** and the **Top/Side button** together until the Apple logo appears.  \n3. **Reset the keyboard dictionary** \u2013 Go to **Settings > General > Transfer or Reset iPhone > Reset > Reset Keyboard Dictionary**.  \n4. **Reset all settings** (keeps your data but restores system settings) \u2013 **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings**.  \n\nIf the problem continues after these steps, please DM us with your device model and iOS version so we can look into it further.\n\nThank you for reaching out, and we appreciate your patience.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.2747,
+    "top3_intents": [
+      11,
+      0,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 14.565,
+    "system": "rag_agent"
+  },
+  "36": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 2,
+    "predicted_is_dm": false,
+    "confidence": 0.2973,
+    "top3_intents": [
+      2,
+      8,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.746,
+    "system": "rag_agent"
+  },
+  "37": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 2,
+    "predicted_is_dm": false,
+    "confidence": 0.2672,
+    "top3_intents": [
+      2,
+      11,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.546,
+    "system": "rag_agent"
+  },
+  "38": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 2,
+    "predicted_is_dm": true,
+    "confidence": 0.2752,
+    "top3_intents": [
+      2,
+      8,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.547,
+    "system": "rag_agent"
+  },
+  "39": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2254,
+    "top3_intents": [
+      8,
+      11,
+      2
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.55,
+    "system": "rag_agent"
+  },
+  "40": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.1984,
+    "top3_intents": [
+      8,
+      2,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.59,
+    "system": "rag_agent"
+  },
+  "41": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.22,
+    "top3_intents": [
+      6,
+      4,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.667,
+    "system": "rag_agent"
+  },
+  "42": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 0,
+    "predicted_is_dm": false,
+    "confidence": 0.1749,
+    "top3_intents": [
+      0,
+      8,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.709,
+    "system": "rag_agent"
+  },
+  "43": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2488,
+    "top3_intents": [
+      8,
+      2,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.958,
+    "system": "rag_agent"
+  },
+  "44": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.1027,
+    "top3_intents": [
+      10,
+      1,
+      9
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.033,
+    "system": "rag_agent"
+  },
+  "45": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.1503,
+    "top3_intents": [
+      11,
+      0,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.202,
+    "system": "rag_agent"
+  },
+  "46": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 2,
+    "predicted_is_dm": false,
+    "confidence": 0.1497,
+    "top3_intents": [
+      2,
+      9,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.155,
+    "system": "rag_agent"
+  },
+  "47": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 2,
+    "predicted_is_dm": false,
+    "confidence": 0.19,
+    "top3_intents": [
+      2,
+      11,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.056,
+    "system": "rag_agent"
+  },
+  "48": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.1374,
+    "top3_intents": [
+      11,
+      0,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.12,
+    "system": "rag_agent"
+  },
+  "49": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.1205,
+    "top3_intents": [
+      11,
+      10,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.747,
+    "system": "rag_agent"
+  },
+  "50": {
+    "reply": "Hi there!\u202fWe understand you\u2019re encountering an issue with iOS\u202f11.0.3 and we\u2019re here to help.\n\n**Try these steps first:**\n\n1. **Check for a newer iOS update**  \n   - Open **Settings** \u2192 **General** \u2192 **Software Update**.  \n   - If an update (e.g., iOS\u202f11.4 or later) is available, tap **Download and Install**. New releases often include fixes for known bugs.\n\n2. **Force\u2011restart your device** (this won\u2019t erase data)  \n   - **iPhone\u202f6s or earlier / iPad\u202fwith Home button:** Press and hold **Home** + **Power** until the Apple logo appears.  \n   - **iPhone\u202f7 / 7\u202fPlus:** Press and hold **Volume Down** + **Power** until the Apple logo appears.  \n   - **iPhone\u202f8, X, or later:** Quickly press **Volume Up**, then **Volume Down**, then hold **Power** until the Apple logo appears.\n\n3. **Reset network settings** (helps if the issue involves connectivity)  \n   - Settings \u2192 General \u2192 Reset \u2192 **Reset Network Settings**.  \n   - You\u2019ll need to re\u2011enter Wi\u2011Fi passwords afterward.\n\n4. **Clear Safari cache (if the problem is browser\u2011related)**  \n   - Settings \u2192 Safari \u2192 **Clear History and Website Data**.\n\n5. **If the issue persists, back up your device and consider a full restore**  \n   - Back up via iCloud or a computer.  \n   - Connect to a Mac/PC, open Finder (macOS Catalina or later) or iTunes, select your device, and choose **Restore iPhone/iPad**.\n\nIf you\u2019ve tried these steps and the problem is still there, could you let us know a bit more about what\u2019s happening (e.g., error messages, specific app behavior, or when it occurs)? That\u2019ll help us pinpoint the right solution.\n\nThank you for reaching out, and we look forward to getting this resolved for you.  \n\n\u2014\u202fApple Support",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.1374,
+    "top3_intents": [
+      11,
+      0,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.797,
+    "system": "rag_agent"
+  },
+  "51": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 9,
+    "predicted_is_dm": true,
+    "confidence": 0.1633,
+    "top3_intents": [
+      9,
+      11,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.571,
+    "system": "rag_agent"
+  },
+  "52": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.1411,
+    "top3_intents": [
+      10,
+      3,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.475,
+    "system": "rag_agent"
+  },
+  "53": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.1593,
+    "top3_intents": [
+      10,
+      11,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.549,
+    "system": "rag_agent"
+  },
+  "54": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 11,
+    "predicted_is_dm": true,
+    "confidence": 0.2156,
+    "top3_intents": [
+      11,
+      2,
+      9
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.488,
+    "system": "rag_agent"
+  },
+  "55": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.1469,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.506,
+    "system": "rag_agent"
+  },
+  "56": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 0,
+    "predicted_is_dm": false,
+    "confidence": 0.1018,
+    "top3_intents": [
+      0,
+      11,
+      4
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.507,
+    "system": "rag_agent"
+  },
+  "57": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.1156,
+    "top3_intents": [
+      10,
+      11,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.587,
+    "system": "rag_agent"
+  },
+  "58": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 2,
+    "predicted_is_dm": false,
+    "confidence": 0.1261,
+    "top3_intents": [
+      2,
+      7,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.612,
+    "system": "rag_agent"
+  },
+  "59": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.148,
+    "top3_intents": [
+      10,
+      8,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.63,
+    "system": "rag_agent"
+  },
+  "60": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.4065,
+    "top3_intents": [
+      5,
+      4,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.281,
+    "system": "rag_agent"
+  },
+  "61": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 4,
+    "predicted_is_dm": false,
+    "confidence": 0.3832,
+    "top3_intents": [
+      4,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.065,
+    "system": "rag_agent"
+  },
+  "62": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 4,
+    "predicted_is_dm": false,
+    "confidence": 0.3808,
+    "top3_intents": [
+      4,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.101,
+    "system": "rag_agent"
+  },
+  "63": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 4,
+    "predicted_is_dm": false,
+    "confidence": 0.3665,
+    "top3_intents": [
+      4,
+      5,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.957,
+    "system": "rag_agent"
+  },
+  "64": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 4,
+    "predicted_is_dm": false,
+    "confidence": 0.3588,
+    "top3_intents": [
+      4,
+      11,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.233,
+    "system": "rag_agent"
+  },
+  "65": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3329,
+    "top3_intents": [
+      5,
+      4,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.299,
+    "system": "rag_agent"
+  },
+  "66": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 4,
+    "predicted_is_dm": false,
+    "confidence": 0.3432,
+    "top3_intents": [
+      4,
+      10,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.985,
+    "system": "rag_agent"
+  },
+  "67": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 4,
+    "predicted_is_dm": true,
+    "confidence": 0.3638,
+    "top3_intents": [
+      4,
+      5,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.016,
+    "system": "rag_agent"
+  },
+  "68": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 4,
+    "predicted_is_dm": false,
+    "confidence": 0.3774,
+    "top3_intents": [
+      4,
+      10,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.998,
+    "system": "rag_agent"
+  },
+  "69": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 4,
+    "predicted_is_dm": true,
+    "confidence": 0.3601,
+    "top3_intents": [
+      4,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.519,
+    "system": "rag_agent"
+  },
+  "70": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.2601,
+    "top3_intents": [
+      1,
+      4,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.557,
+    "system": "rag_agent"
+  },
+  "71": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 1,
+    "predicted_is_dm": false,
+    "confidence": 0.3008,
+    "top3_intents": [
+      1,
+      4,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.514,
+    "system": "rag_agent"
+  },
+  "72": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 4,
+    "predicted_is_dm": true,
+    "confidence": 0.1758,
+    "top3_intents": [
+      4,
+      10,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.487,
+    "system": "rag_agent"
+  },
+  "73": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.2743,
+    "top3_intents": [
+      5,
+      4,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.545,
+    "system": "rag_agent"
+  },
+  "74": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 4,
+    "predicted_is_dm": true,
+    "confidence": 0.2325,
+    "top3_intents": [
+      4,
+      10,
+      7
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.562,
+    "system": "rag_agent"
+  },
+  "75": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.4727,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.634,
+    "system": "rag_agent"
+  },
+  "76": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.5363,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.524,
+    "system": "rag_agent"
+  },
+  "77": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.5337,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.072,
+    "system": "rag_agent"
+  },
+  "78": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.5521,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.975,
+    "system": "rag_agent"
+  },
+  "79": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.4675,
+    "top3_intents": [
+      5,
+      1,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.198,
+    "system": "rag_agent"
+  },
+  "80": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.4788,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.145,
+    "system": "rag_agent"
+  },
+  "81": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.5179,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.316,
+    "system": "rag_agent"
+  },
+  "82": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.5227,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.143,
+    "system": "rag_agent"
+  },
+  "83": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.436,
+    "top3_intents": [
+      5,
+      1,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.017,
+    "system": "rag_agent"
+  },
+  "84": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.5227,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.707,
+    "system": "rag_agent"
+  },
+  "85": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.2962,
+    "top3_intents": [
+      5,
+      10,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.073,
+    "system": "rag_agent"
+  },
+  "86": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.3215,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.519,
+    "system": "rag_agent"
+  },
+  "87": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.4326,
+    "top3_intents": [
+      5,
+      1,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.776,
+    "system": "rag_agent"
+  },
+  "88": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.37,
+    "top3_intents": [
+      5,
+      11,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.481,
+    "system": "rag_agent"
+  },
+  "89": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.3553,
+    "top3_intents": [
+      5,
+      6,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.598,
+    "system": "rag_agent"
+  },
+  "90": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.5329,
+    "top3_intents": [
+      6,
+      1,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.499,
+    "system": "rag_agent"
+  },
+  "91": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.5016,
+    "top3_intents": [
+      6,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.491,
+    "system": "rag_agent"
+  },
+  "92": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.5058,
+    "top3_intents": [
+      6,
+      1,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.516,
+    "system": "rag_agent"
+  },
+  "93": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.5058,
+    "top3_intents": [
+      6,
+      1,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.517,
+    "system": "rag_agent"
+  },
+  "94": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 6,
+    "predicted_is_dm": false,
+    "confidence": 0.4929,
+    "top3_intents": [
+      6,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.958,
+    "system": "rag_agent"
+  },
+  "95": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 6,
+    "predicted_is_dm": false,
+    "confidence": 0.5606,
+    "top3_intents": [
+      6,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.232,
+    "system": "rag_agent"
+  },
+  "96": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.5454,
+    "top3_intents": [
+      6,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.95,
+    "system": "rag_agent"
+  },
+  "97": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 6,
+    "predicted_is_dm": false,
+    "confidence": 0.4734,
+    "top3_intents": [
+      6,
+      1,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.059,
+    "system": "rag_agent"
+  },
+  "98": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.417,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.158,
+    "system": "rag_agent"
+  },
+  "99": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.4868,
+    "top3_intents": [
+      6,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.075,
+    "system": "rag_agent"
+  },
+  "100": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 6,
+    "predicted_is_dm": false,
+    "confidence": 0.3867,
+    "top3_intents": [
+      6,
+      1,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.003,
+    "system": "rag_agent"
+  },
+  "101": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.3687,
+    "top3_intents": [
+      6,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.907,
+    "system": "rag_agent"
+  },
+  "102": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.3114,
+    "top3_intents": [
+      6,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.123,
+    "system": "rag_agent"
+  },
+  "103": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.431,
+    "top3_intents": [
+      6,
+      1,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.507,
+    "system": "rag_agent"
+  },
+  "104": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.4645,
+    "top3_intents": [
+      6,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.798,
+    "system": "rag_agent"
+  },
+  "105": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4733,
+    "top3_intents": [
+      1,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.491,
+    "system": "rag_agent"
+  },
+  "106": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.452,
+    "top3_intents": [
+      1,
+      5,
+      7
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.542,
+    "system": "rag_agent"
+  },
+  "107": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4596,
+    "top3_intents": [
+      1,
+      7,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.522,
+    "system": "rag_agent"
+  },
+  "108": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.445,
+    "top3_intents": [
+      1,
+      7,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.498,
+    "system": "rag_agent"
+  },
+  "109": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 7,
+    "predicted_is_dm": false,
+    "confidence": 0.3649,
+    "top3_intents": [
+      7,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.496,
+    "system": "rag_agent"
+  },
+  "110": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4889,
+    "top3_intents": [
+      1,
+      7,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.481,
+    "system": "rag_agent"
+  },
+  "111": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4001,
+    "top3_intents": [
+      1,
+      5,
+      7
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.005,
+    "system": "rag_agent"
+  },
+  "112": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4512,
+    "top3_intents": [
+      1,
+      7,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.2,
+    "system": "rag_agent"
+  },
+  "113": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4782,
+    "top3_intents": [
+      1,
+      7,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.772,
+    "system": "rag_agent"
+  },
+  "114": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.4912,
+    "top3_intents": [
+      1,
+      7,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.004,
+    "system": "rag_agent"
+  },
+  "115": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 7,
+    "predicted_is_dm": false,
+    "confidence": 0.2593,
+    "top3_intents": [
+      7,
+      1,
+      4
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.302,
+    "system": "rag_agent"
+  },
+  "116": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 6,
+    "predicted_is_dm": false,
+    "confidence": 0.3318,
+    "top3_intents": [
+      6,
+      5,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.304,
+    "system": "rag_agent"
+  },
+  "117": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.2963,
+    "top3_intents": [
+      5,
+      10,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.223,
+    "system": "rag_agent"
+  },
+  "118": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 7,
+    "predicted_is_dm": true,
+    "confidence": 0.2454,
+    "top3_intents": [
+      7,
+      1,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.939,
+    "system": "rag_agent"
+  },
+  "119": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.3256,
+    "top3_intents": [
+      1,
+      5,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.932,
+    "system": "rag_agent"
+  },
+  "120": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.3761,
+    "top3_intents": [
+      8,
+      0,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.494,
+    "system": "rag_agent"
+  },
+  "121": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.34,
+    "top3_intents": [
+      8,
+      0,
+      2
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.693,
+    "system": "rag_agent"
+  },
+  "122": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.3863,
+    "top3_intents": [
+      8,
+      0,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.504,
+    "system": "rag_agent"
+  },
+  "123": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.3506,
+    "top3_intents": [
+      8,
+      0,
+      2
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.473,
+    "system": "rag_agent"
+  },
+  "124": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.351,
+    "top3_intents": [
+      8,
+      2,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.536,
+    "system": "rag_agent"
+  },
+  "125": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.3501,
+    "top3_intents": [
+      8,
+      2,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.864,
+    "system": "rag_agent"
+  },
+  "126": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.3856,
+    "top3_intents": [
+      8,
+      5,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.505,
+    "system": "rag_agent"
+  },
+  "127": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.3398,
+    "top3_intents": [
+      8,
+      0,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.458,
+    "system": "rag_agent"
+  },
+  "128": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.3444,
+    "top3_intents": [
+      8,
+      11,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.21,
+    "system": "rag_agent"
+  },
+  "129": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.3249,
+    "top3_intents": [
+      8,
+      0,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.052,
+    "system": "rag_agent"
+  },
+  "130": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.24,
+    "top3_intents": [
+      8,
+      2,
+      9
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.985,
+    "system": "rag_agent"
+  },
+  "131": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2546,
+    "top3_intents": [
+      8,
+      2,
+      3
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.954,
+    "system": "rag_agent"
+  },
+  "132": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.3189,
+    "top3_intents": [
+      5,
+      8,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.979,
+    "system": "rag_agent"
+  },
+  "133": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.3371,
+    "top3_intents": [
+      5,
+      10,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.052,
+    "system": "rag_agent"
+  },
+  "134": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.2226,
+    "top3_intents": [
+      8,
+      3,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.023,
+    "system": "rag_agent"
+  },
+  "135": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.4033,
+    "top3_intents": [
+      5,
+      6,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 2.388,
+    "system": "rag_agent"
+  },
+  "136": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.4228,
+    "top3_intents": [
+      5,
+      6,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.073,
+    "system": "rag_agent"
+  },
+  "137": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.414,
+    "top3_intents": [
+      5,
+      10,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.526,
+    "system": "rag_agent"
+  },
+  "138": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.3249,
+    "top3_intents": [
+      5,
+      9,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.565,
+    "system": "rag_agent"
+  },
+  "139": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3543,
+    "top3_intents": [
+      5,
+      6,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.85,
+    "system": "rag_agent"
+  },
+  "140": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.352,
+    "top3_intents": [
+      5,
+      10,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.568,
+    "system": "rag_agent"
+  },
+  "141": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.3986,
+    "top3_intents": [
+      5,
+      6,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.594,
+    "system": "rag_agent"
+  },
+  "142": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.3398,
+    "top3_intents": [
+      5,
+      10,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.611,
+    "system": "rag_agent"
+  },
+  "143": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 9,
+    "predicted_is_dm": false,
+    "confidence": 0.2737,
+    "top3_intents": [
+      9,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.523,
+    "system": "rag_agent"
+  },
+  "144": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.3167,
+    "top3_intents": [
+      10,
+      5,
+      9
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.562,
+    "system": "rag_agent"
+  },
+  "145": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.1799,
+    "top3_intents": [
+      10,
+      1,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.997,
+    "system": "rag_agent"
+  },
+  "146": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 9,
+    "predicted_is_dm": false,
+    "confidence": 0.0728,
+    "top3_intents": [
+      9,
+      8,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.074,
+    "system": "rag_agent"
+  },
+  "147": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.1584,
+    "top3_intents": [
+      5,
+      9,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.124,
+    "system": "rag_agent"
+  },
+  "148": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.2714,
+    "top3_intents": [
+      5,
+      8,
+      9
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.267,
+    "system": "rag_agent"
+  },
+  "149": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2044,
+    "top3_intents": [
+      8,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.29,
+    "system": "rag_agent"
+  },
+  "150": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.3572,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.14,
+    "system": "rag_agent"
+  },
+  "151": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.363,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.331,
+    "system": "rag_agent"
+  },
+  "152": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.3745,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.485,
+    "system": "rag_agent"
+  },
+  "153": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.3408,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.354,
+    "system": "rag_agent"
+  },
+  "154": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.3314,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.483,
+    "system": "rag_agent"
+  },
+  "155": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.3676,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.48,
+    "system": "rag_agent"
+  },
+  "156": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.3273,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.882,
+    "system": "rag_agent"
+  },
+  "157": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.3829,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.464,
+    "system": "rag_agent"
+  },
+  "158": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.3439,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.487,
+    "system": "rag_agent"
+  },
+  "159": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.3247,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.682,
+    "system": "rag_agent"
+  },
+  "160": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.2939,
+    "top3_intents": [
+      10,
+      4,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.464,
+    "system": "rag_agent"
+  },
+  "161": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.2292,
+    "top3_intents": [
+      10,
+      11,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.643,
+    "system": "rag_agent"
+  },
+  "162": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.3129,
+    "top3_intents": [
+      10,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.123,
+    "system": "rag_agent"
+  },
+  "163": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.3318,
+    "top3_intents": [
+      10,
+      11,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.192,
+    "system": "rag_agent"
+  },
+  "164": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.3576,
+    "top3_intents": [
+      10,
+      5,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.155,
+    "system": "rag_agent"
+  },
+  "165": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.3388,
+    "top3_intents": [
+      11,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.289,
+    "system": "rag_agent"
+  },
+  "166": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.3719,
+    "top3_intents": [
+      5,
+      10,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 3.985,
+    "system": "rag_agent"
+  },
+  "167": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 11,
+    "predicted_is_dm": true,
+    "confidence": 0.3073,
+    "top3_intents": [
+      11,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.073,
+    "system": "rag_agent"
+  },
+  "168": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.3919,
+    "top3_intents": [
+      11,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.16,
+    "system": "rag_agent"
+  },
+  "169": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 11,
+    "predicted_is_dm": false,
+    "confidence": 0.3289,
+    "top3_intents": [
+      11,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.496,
+    "system": "rag_agent"
+  },
+  "170": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.4129,
+    "top3_intents": [
+      5,
+      10,
+      1
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.403,
+    "system": "rag_agent"
+  },
+  "171": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 11,
+    "predicted_is_dm": true,
+    "confidence": 0.3205,
+    "top3_intents": [
+      11,
+      10,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.486,
+    "system": "rag_agent"
+  },
+  "172": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.291,
+    "top3_intents": [
+      5,
+      6,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.632,
+    "system": "rag_agent"
+  },
+  "173": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 6,
+    "predicted_is_dm": true,
+    "confidence": 0.4163,
+    "top3_intents": [
+      6,
+      11,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.514,
+    "system": "rag_agent"
+  },
+  "174": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 11,
+    "predicted_is_dm": true,
+    "confidence": 0.3761,
+    "top3_intents": [
+      11,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.561,
+    "system": "rag_agent"
+  },
+  "175": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 11,
+    "predicted_is_dm": true,
+    "confidence": 0.2719,
+    "top3_intents": [
+      11,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.494,
+    "system": "rag_agent"
+  },
+  "176": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.2195,
+    "top3_intents": [
+      10,
+      11,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.556,
+    "system": "rag_agent"
+  },
+  "177": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.2271,
+    "top3_intents": [
+      5,
+      11,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.495,
+    "system": "rag_agent"
+  },
+  "178": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.2646,
+    "top3_intents": [
+      8,
+      6,
+      5
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.568,
+    "system": "rag_agent"
+  },
+  "179": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.2345,
+    "top3_intents": [
+      10,
+      11,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.525,
+    "system": "rag_agent"
+  },
+  "180": {
+    "reply": "Hello! We are here to assist with genuine Apple product, service, and technical inquiries. If you are experiencing an issue with your Apple device, software, or account, please describe the problem and we'll be happy to help!",
+    "predicted_intent": -1,
+    "predicted_is_dm": false,
+    "confidence": 1.0,
+    "top3_intents": [
+      -1
+    ],
+    "guardrail_injection_safe": false,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.0,
+    "system": "rag_agent"
+  },
+  "181": {
+    "reply": "Hello! We are here to assist with genuine Apple product, service, and technical inquiries. If you are experiencing an issue with your Apple device, software, or account, please describe the problem and we'll be happy to help!",
+    "predicted_intent": -1,
+    "predicted_is_dm": false,
+    "confidence": 1.0,
+    "top3_intents": [
+      -1
+    ],
+    "guardrail_injection_safe": false,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.0,
+    "system": "rag_agent"
+  },
+  "182": {
+    "reply": "Hello! We are here to assist with genuine Apple product, service, and technical inquiries. If you are experiencing an issue with your Apple device, software, or account, please describe the problem and we'll be happy to help!",
+    "predicted_intent": -1,
+    "predicted_is_dm": false,
+    "confidence": 1.0,
+    "top3_intents": [
+      -1
+    ],
+    "guardrail_injection_safe": false,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.0,
+    "system": "rag_agent"
+  },
+  "183": {
+    "reply": "Hello! We are here to assist with genuine Apple product, service, and technical inquiries. If you are experiencing an issue with your Apple device, software, or account, please describe the problem and we'll be happy to help!",
+    "predicted_intent": -1,
+    "predicted_is_dm": false,
+    "confidence": 1.0,
+    "top3_intents": [
+      -1
+    ],
+    "guardrail_injection_safe": false,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.0,
+    "system": "rag_agent"
+  },
+  "184": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 0,
+    "predicted_is_dm": true,
+    "confidence": 0.179,
+    "top3_intents": [
+      0,
+      8,
+      2
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.109,
+    "system": "rag_agent"
+  },
+  "185": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 2,
+    "predicted_is_dm": false,
+    "confidence": 0.0649,
+    "top3_intents": [
+      2,
+      3,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.165,
+    "system": "rag_agent"
+  },
+  "186": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 2,
+    "predicted_is_dm": true,
+    "confidence": 0.0897,
+    "top3_intents": [
+      2,
+      3,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.149,
+    "system": "rag_agent"
+  },
+  "187": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.0487,
+    "top3_intents": [
+      10,
+      4,
+      8
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.005,
+    "system": "rag_agent"
+  },
+  "188": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.2514,
+    "top3_intents": [
+      8,
+      2,
+      3
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.112,
+    "system": "rag_agent"
+  },
+  "189": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 3,
+    "predicted_is_dm": false,
+    "confidence": 0.1455,
+    "top3_intents": [
+      3,
+      8,
+      2
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.055,
+    "system": "rag_agent"
+  },
+  "190": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 8,
+    "predicted_is_dm": true,
+    "confidence": 0.3058,
+    "top3_intents": [
+      8,
+      2,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 1.941,
+    "system": "rag_agent"
+  },
+  "191": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 8,
+    "predicted_is_dm": false,
+    "confidence": 0.1631,
+    "top3_intents": [
+      8,
+      0,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 4.091,
+    "system": "rag_agent"
+  },
+  "192": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 9,
+    "predicted_is_dm": false,
+    "confidence": 0.2065,
+    "top3_intents": [
+      9,
+      5,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.519,
+    "system": "rag_agent"
+  },
+  "193": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.2538,
+    "top3_intents": [
+      10,
+      5,
+      11
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.563,
+    "system": "rag_agent"
+  },
+  "194": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 10,
+    "predicted_is_dm": false,
+    "confidence": 0.0951,
+    "top3_intents": [
+      10,
+      4,
+      0
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.481,
+    "system": "rag_agent"
+  },
+  "195": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.2288,
+    "top3_intents": [
+      10,
+      11,
+      9
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.478,
+    "system": "rag_agent"
+  },
+  "196": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 1,
+    "predicted_is_dm": true,
+    "confidence": 0.3165,
+    "top3_intents": [
+      1,
+      5,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.515,
+    "system": "rag_agent"
+  },
+  "197": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 10,
+    "predicted_is_dm": true,
+    "confidence": 0.2079,
+    "top3_intents": [
+      10,
+      11,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.596,
+    "system": "rag_agent"
+  },
+  "198": {
+    "reply": "We'd like to take a closer look into this for you. To protect your privacy and review your details, please send us a Direct Message (DM) with your device model and current iOS version: https://twitter.com/messages/compose?recipient_id=AppleSupport",
+    "predicted_intent": 5,
+    "predicted_is_dm": true,
+    "confidence": 0.4164,
+    "top3_intents": [
+      5,
+      6,
+      10
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.535,
+    "system": "rag_agent"
+  },
+  "199": {
+    "reply": "Thanks for reaching out! We recommend restarting your device and verifying you are on the latest iOS update via Settings > General > Software Update. If the issue persists, let us know or DM us your details so we can assist further!",
+    "predicted_intent": 5,
+    "predicted_is_dm": false,
+    "confidence": 0.2495,
+    "top3_intents": [
+      5,
+      8,
+      6
+    ],
+    "guardrail_injection_safe": true,
+    "guardrail_valid_query": true,
+    "latency_seconds": 0.487,
+    "system": "rag_agent"
+  }
+}

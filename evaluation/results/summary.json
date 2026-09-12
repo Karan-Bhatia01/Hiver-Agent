@@ -1,0 +1,240 @@
+{
+  "systems": {
+    "rag_agent": {
+      "automated_metrics": {
+        "intent_classification": {
+          "top1_accuracy": 0.5211,
+          "top3_accuracy": 0.7684,
+          "total": 190,
+          "top1_correct": 99,
+          "per_cluster_accuracy": {
+            "0": 0.0625,
+            "1": 1.0,
+            "2": 0.2667,
+            "3": 0.0,
+            "4": 0.6667,
+            "5": 0.9375,
+            "6": 0.9333,
+            "7": 0.2,
+            "8": 0.8125,
+            "9": 0.125,
+            "10": 0.9375,
+            "11": 0.4118
+          }
+        },
+        "escalation_decision": {
+          "precision": 0.7204,
+          "recall": 0.5537,
+          "f1": 0.6262,
+          "tp": 67,
+          "fp": 26,
+          "fn": 54,
+          "tn": 43,
+          "total": 190
+        },
+        "guardrail_performance": {
+          "injection_detection_rate": 0.8,
+          "off_topic_detection_rate": 0.0,
+          "gibberish_detection_rate": 0.0,
+          "overall_guardrail_accuracy": 0.4,
+          "injection_total": 5,
+          "off_topic_total": 3,
+          "gibberish_total": 2
+        },
+        "reply_quality": {
+          "avg_rouge_l_f1": 0.0747,
+          "avg_keyword_coverage": 0.1005,
+          "total": 190
+        }
+      },
+      "llm_judge": {
+        "mean_empathy": 3.6,
+        "min_empathy": 2,
+        "max_empathy": 5,
+        "mean_accuracy": 3.2,
+        "min_accuracy": 1,
+        "max_accuracy": 5,
+        "mean_completeness": 4.867,
+        "min_completeness": 3,
+        "max_completeness": 5,
+        "mean_actionability": 3.867,
+        "min_actionability": 2,
+        "max_actionability": 4,
+        "mean_safety": 5.0,
+        "min_safety": 5,
+        "max_safety": 5,
+        "mean_avg_score": 4.107,
+        "min_avg_score": 2.6,
+        "max_avg_score": 4.6,
+        "total_judged": 15
+      }
+    },
+    "tfidf_baseline": {
+      "automated_metrics": {
+        "intent_classification": {
+          "top1_accuracy": 0.4737,
+          "top3_accuracy": 0.4737,
+          "total": 190,
+          "top1_correct": 90,
+          "per_cluster_accuracy": {
+            "0": 0.25,
+            "1": 0.7333,
+            "2": 0.4,
+            "3": 0.5556,
+            "4": 0.8,
+            "5": 0.6875,
+            "6": 0.6,
+            "7": 0.4667,
+            "8": 0.0,
+            "9": 0.125,
+            "10": 0.875,
+            "11": 0.2353
+          }
+        },
+        "escalation_decision": {
+          "precision": 0.7339,
+          "recall": 0.6612,
+          "f1": 0.6957,
+          "tp": 80,
+          "fp": 29,
+          "fn": 41,
+          "tn": 40,
+          "total": 190
+        },
+        "guardrail_performance": {
+          "injection_detection_rate": 0.0,
+          "off_topic_detection_rate": 0.0,
+          "gibberish_detection_rate": 0.0,
+          "overall_guardrail_accuracy": 0.0,
+          "injection_total": 5,
+          "off_topic_total": 3,
+          "gibberish_total": 2
+        },
+        "reply_quality": {
+          "avg_rouge_l_f1": 0.037,
+          "avg_keyword_coverage": 0.0112,
+          "total": 190
+        }
+      },
+      "llm_judge": {
+        "mean_empathy": 2.0,
+        "min_empathy": 2,
+        "max_empathy": 2,
+        "mean_accuracy": 1.067,
+        "min_accuracy": 1,
+        "max_accuracy": 2,
+        "mean_completeness": 1.0,
+        "min_completeness": 1,
+        "max_completeness": 1,
+        "mean_actionability": 2.133,
+        "min_actionability": 2,
+        "max_actionability": 4,
+        "mean_safety": 5.0,
+        "min_safety": 5,
+        "max_safety": 5,
+        "mean_avg_score": 2.24,
+        "min_avg_score": 2.2,
+        "max_avg_score": 2.8,
+        "total_judged": 15
+      }
+    },
+    "trivial_baseline": {
+      "automated_metrics": {
+        "intent_classification": {
+          "top1_accuracy": 0.0842,
+          "top3_accuracy": 0.2579,
+          "total": 190,
+          "top1_correct": 16,
+          "per_cluster_accuracy": {
+            "0": 0.125,
+            "1": 0.0,
+            "2": 0.0667,
+            "3": 0.0,
+            "4": 0.2,
+            "5": 0.0625,
+            "6": 0.0,
+            "7": 0.0667,
+            "8": 0.125,
+            "9": 0.1875,
+            "10": 0.125,
+            "11": 0.0588
+          }
+        },
+        "escalation_decision": {
+          "precision": 0.6368,
+          "recall": 1.0,
+          "f1": 0.7781,
+          "tp": 121,
+          "fp": 69,
+          "fn": 0,
+          "tn": 0,
+          "total": 190
+        },
+        "guardrail_performance": {
+          "injection_detection_rate": 0.0,
+          "off_topic_detection_rate": 0.0,
+          "gibberish_detection_rate": 0.0,
+          "overall_guardrail_accuracy": 0.0,
+          "injection_total": 5,
+          "off_topic_total": 3,
+          "gibberish_total": 2
+        },
+        "reply_quality": {
+          "avg_rouge_l_f1": 0.0668,
+          "avg_keyword_coverage": 0.0,
+          "total": 190
+        }
+      },
+      "llm_judge": {
+        "mean_empathy": 3.0,
+        "min_empathy": 3,
+        "max_empathy": 3,
+        "mean_accuracy": 1.0,
+        "min_accuracy": 1,
+        "max_accuracy": 1,
+        "mean_completeness": 2.0,
+        "min_completeness": 2,
+        "max_completeness": 2,
+        "mean_actionability": 2.0,
+        "min_actionability": 2,
+        "max_actionability": 2,
+        "mean_safety": 5.0,
+        "min_safety": 5,
+        "max_safety": 5,
+        "mean_avg_score": 2.6,
+        "min_avg_score": 2.6,
+        "max_avg_score": 2.6,
+        "total_judged": 15
+      }
+    }
+  },
+  "judge_human_agreement": {
+    "empathy": {
+      "mean_abs_deviation": 0.667,
+      "within_1_agreement": 0.8
+    },
+    "accuracy": {
+      "mean_abs_deviation": 1.4,
+      "within_1_agreement": 0.667
+    },
+    "completeness": {
+      "mean_abs_deviation": 1.8,
+      "within_1_agreement": 0.267
+    },
+    "actionability": {
+      "mean_abs_deviation": 0.667,
+      "within_1_agreement": 0.867
+    },
+    "safety": {
+      "mean_abs_deviation": 0.0,
+      "within_1_agreement": 1.0
+    },
+    "overall": {
+      "spearman_correlation": 0.3071,
+      "n_paired": 15,
+      "mean_abs_deviation_avg_score": 0.48
+    }
+  },
+  "golden_set_size": 200,
+  "evaluation_timestamp": "2026-09-12 21:50:22"
+}

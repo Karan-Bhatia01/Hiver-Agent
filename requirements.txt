@@ -1,0 +1,11 @@
+# Requirements
+numpy
+pandas
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+matplotlib
+scikit-learn
+cohere
+streamlit

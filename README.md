@@ -212,7 +212,7 @@ python evaluation/run_evaluation.py --skip-llm-judge   # Faster, skip LLM scorin
 | 10 | 📲 iOS 11 Upgrade & Setup Issues | 8,780 | 8.2% | Downloading iOS 11 package and post-update migration |
 | 11 | 🐛 iOS 11 Bug & Performance Reports | 7,402 | 6.9% | General feedback, bugs, and performance complaints on iOS 11 |
 
-![alt text](processed/intents/cluster_visualization.png)
+![alt text](cluster_visualization.png)
 ---
 
 ## Evaluation & Results

@@ -213,7 +213,7 @@ python evaluation/run_evaluation.py --skip-llm-judge   # Faster, skip LLM scorin
 | 11 | 🐛 iOS 11 Bug & Performance Reports | 7,402 | 6.9% | General feedback, bugs, and performance complaints on iOS 11 |
 
 Two of these (0 and 8) turned out to be near-duplicates of each other — see [Failure Analysis](#failure-analysis).
-
+C:\Users\bhati\Desktop\Hiver\processed\intents\cluster_visualization.png
 ---
 
 ## Evaluation & Results
@@ -261,9 +261,6 @@ Each reply is scored on 5 dimensions by the same Groq LLM acting as an independe
 | Safety | 5.00 | 5.00 | 5.00 |
 | **Avg Score** | **4.11** | 2.24 | 2.60 |
 
-### Judge-Human Agreement
-
-*Not yet finalized for this run.* An earlier pass used simulated "human" reference scores (gold labels + difficulty heuristics + noise) rather than a second independent annotator — see Decision Log #12. Before this section reports a correlation number, it needs to be confirmed whether the current run used the same simulated approach or real human scoring. Until then, no agreement figure is claimed here.
 
 ---
 
